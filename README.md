@@ -14,4 +14,11 @@ This a sample repo for class
 ## attempting update to read me file with a text edit prior pushing were updated using IDE
 ## push made on September 18 2024 : 10:53 AM
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+## the current commit will display a working knowledge of how to update the main branch locally and push it the to remote branch to display the two are in sync.
+>>>>>>> f5d0dae (rebase config)
 
+=======
+>>>>>>> 83114a1 (new push test using text edit file)
