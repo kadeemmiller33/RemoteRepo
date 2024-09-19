@@ -18,4 +18,5 @@ This a sample repo for class
 
 ## testing if the is working 
 
+## HW Assignment attempt making change to read me file locally I will then stage and commit 
 
