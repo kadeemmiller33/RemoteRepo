@@ -15,6 +15,3 @@ This a sample repo for class
 ## push made on September 18 2024 : 10:53 AM
 
 
-## the current commit will display a working knowledge of how to update the main branch locally and push it the to remote branch to display the two are in sync.
-
-## I have know idea what is going on with this right now. 
